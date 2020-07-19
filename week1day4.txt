@@ -1,0 +1,6 @@
+git commit -am “My new changes”
+[master 22gc8v1] My new message
+ 1 file changed, 1 insertion(+)
+$ cd Desktop
+$ git clone https://github.com/USERNAME/REPOSITORY_NAME.git FOLDER_NAME
+$ git commit -m "your commit message e.g. First commit"
